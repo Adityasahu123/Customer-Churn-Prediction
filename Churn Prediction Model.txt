@@ -1,0 +1,8 @@
+Churn Prediction Model
+Created and optimized machine learning models (Random Forest, XGBoost) to predict customer churn with 84% accuracy.
+
+Employed SMOTE to balance dataset, improving detection of churned customers.
+
+Designed end-to-end data processing pipeline, including encoding, scaling, and model saving for seamless deployment.
+
+Produced clear visual analytics to highlight key insights and guide business strategies.
